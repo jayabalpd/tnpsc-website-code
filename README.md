@@ -363,4 +363,4 @@ Apache Tomcat configuration file: \xampp\sendmail\sendmail.ini
 Mercury Mail configuration file: \xampp\MercuryMail\MERCURY.INI
 <b>Supporter</b>
 
-thanks for <a href="https://www.tnpscrock.in/">TNPSC rock</a> to help create this code
+thanks for <a href="https://www.tnpscgroup4.in/">TNPSC group 4</a> to help create this code
